@@ -18,7 +18,7 @@
 
 <a href="https://www.linkedin.com/in/raj-aatish-8b54241b2/" target="blank">
   
-<img align="center" src="https://t0.gstatic.com/images?q=tbn:ANd9GcRMCA3j2A8hfLl9p5UAU5nd9lvqLlNZvqoU4xOsZ192uH4IYS6X" alt="linkedin" height="100%" width="100%"/>
+<img align="center" src="https://t0.gstatic.com/images?q=tbn:ANd9GcRMCA3j2A8hfLl9p5UAU5nd9lvqLlNZvqoU4xOsZ192uH4IYS6X" alt="linkedin" height="50" width="60"/>
  
  </a>
   
