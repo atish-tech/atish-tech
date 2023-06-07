@@ -15,10 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  // linkedin
+
 <a href="https://www.linkedin.com/in/raj-aatish-8b54241b2/" target="blank">
   
-<img align="center" src="https://t0.gstatic.com/images?q=tbn:ANd9GcRMCA3j2A8hfLl9p5UAU5nd9lvqLlNZvqoU4xOsZ192uH4IYS6X" alt="linkedin" height="30" width="40"/>
+<img align="center" src="https://t0.gstatic.com/images?q=tbn:ANd9GcRMCA3j2A8hfLl9p5UAU5nd9lvqLlNZvqoU4xOsZ192uH4IYS6X" alt="linkedin" height="100%" width="100%"/>
  
  </a>
   
