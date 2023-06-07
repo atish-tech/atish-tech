@@ -23,10 +23,18 @@
 <a href="https://www.instagram.com/raj_aatish_/" target="blank">
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/2175/2175198.png" alt="instagram" height="50" width="50" />
 </a>
-  
-  
-<a href="https://leetcode.com/raj_aatish_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/raj_aatish_/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/aatish__/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/aatish__/practice" height="30" width="40" /></a>
+ </p>
+ 
+<h3 align="left">Codding Prifile</h3>
+<p align="left">
+<a href="https://leetcode.com/raj_aatish_/">
+<img align="center" src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" />
+</a>
+ 
+ 
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/aatish__/practice" >
+<img align="center" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" height="60" width="60" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
