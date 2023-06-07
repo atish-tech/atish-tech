@@ -28,12 +28,12 @@
 <h3 align="left">Codding Prifile</h3>
 <p align="left">
 <a href="https://leetcode.com/raj_aatish_/">
-<img align="center" src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" />
+<img align="center" src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" height="40% />
 </a>
  
  
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/aatish__/practice" >
-<img align="center" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" height="60" width="60" />
+<img align="center" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" height="100" width="100" />
 </a>
 </p>
 
