@@ -23,7 +23,8 @@
 <a href="https://www.instagram.com/raj_aatish_/" target="blank">
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/2175/2175198.png" alt="instagram" height="50" width="50" />
 </a>
- </p>
+</p>
+<br>
  
 <h3 align="left">Codding Prifile</h3>
 <p align="left">
@@ -32,7 +33,7 @@
 </a>
  
 <br>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/aatish__/practice" >
+<a href="https://auth.geeksforgeeks.org/user/aatish__/practice" >
 <img align="center" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" height="100" width="100" />
 </a>
 </p>
