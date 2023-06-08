@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atish-tech&label=Profile%20views&color=0e75b6&style=flat" alt="atish-tech" /> </p>
 
-- 🔭 I’m currently working on [React](https://atish.tech)
-
-- 🌱 I’m currently learning **DSA**
+- 🔭 I’m currently working on [React](https://atish.tech) and learning **DSA**
 
 - 👨‍💻 All of my projects are available at [https://atish.tech](https://atish.tech)
 
