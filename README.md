@@ -39,10 +39,10 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.w3schools.com/cpp/">
-<img src="https://isocpp.org/assets/images/cpp_logo.png" alt="cplusplus" width="30%" height="30%"/> </a>
+<img src="https://isocpp.org/assets/images/cpp_logo.png" alt="cplusplus" width="28%" height="28%"/> </a>
                                                                                                                                                   
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30%" height="30%"/> </a>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="29%" height="29%"/> </a>
                                                                                                       
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="react" width="30%" height="30%"/> </a> 
