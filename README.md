@@ -51,10 +51,10 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeKXebshKzrBj9tc6DFj-iv46H_ePITihX6082ymkqOv1eucdQAr9nzW6LYFB6c1msXIc&usqp=CAU" alt="react" width="30%" height="30%"/> </a>
                                                                                                                                                   
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="react" width="30%" height="30%"/> </a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="react" width="23%" height="23%"/> </a>
                                                                                                                                                   
 <a href="https://www.javascript.com/"> 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4Sub7QbvJWgnmsqj5enLFycSvQbni8-FrNQ&usqp=CAU" alt="react" width="30%" height="30%"/> </a>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiKztGHvMvOqlh91-rltzuzIbZd07cPz-RpA&usqp=CAU" alt="react" width="30%" height="30%"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atish-tech&show_icons=true&locale=en&layout=compact" alt="atish-tech" /></p>
