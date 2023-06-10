@@ -36,25 +36,25 @@
 </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tech Stack: </h3>
 <p align="left"> 
 <a href="https://www.w3schools.com/cpp/">
-<img src="https://isocpp.org/assets/images/cpp_logo.png" alt="cplusplus" width="28%" height="28%"/> </a>
+<img src="https://isocpp.org/assets/images/cpp_logo.png" alt="cplusplus" width="18%" height="18%"/> </a>
                                                                                                                                                   
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="29%" height="29%"/> </a>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="19%" height="19%"/> </a>
                                                                                                       
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="react" width="30%" height="30%"/> </a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="react" width="20%" height="20%"/> </a>
                                                                                                                                                   
 <a href="https://en.wikipedia.org/wiki/HTML" target="_blank" rel="noreferrer"> 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeKXebshKzrBj9tc6DFj-iv46H_ePITihX6082ymkqOv1eucdQAr9nzW6LYFB6c1msXIc&usqp=CAU" alt="react" width="30%" height="30%"/> </a>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeKXebshKzrBj9tc6DFj-iv46H_ePITihX6082ymkqOv1eucdQAr9nzW6LYFB6c1msXIc&usqp=CAU" alt="react" width="20%" height="20%"/> </a>
                                                                                                                                                   
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="react" margin-right = 5 width="20%" height="20%"/> </a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="react" margin-right = 5 width="12%" height="12%"/> </a>
                                                                                                                                                   
 <a href="https://www.javascript.com/"> 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiKztGHvMvOqlh91-rltzuzIbZd07cPz-RpA&usqp=CAU" alt="react" width="30%" height="30%"/> </a>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiKztGHvMvOqlh91-rltzuzIbZd07cPz-RpA&usqp=CAU" alt="react" width="20%" height="20%"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atish-tech&show_icons=true&locale=en&layout=compact" alt="atish-tech" /></p>
