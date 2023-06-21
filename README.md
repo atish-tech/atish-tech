@@ -24,7 +24,7 @@
 </p>
 <br>
  
-<h3 align="left">Codding Prifile</h3>
+<h3 align="left">Codding Profile</h3>
 <p align="left">
 <a href="https://leetcode.com/raj_aatish_/">
 <img align="center" src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" height="30% width="40"/>
