@@ -8,9 +8,9 @@
 -  All of my projects are available at:
     - https://atish.tech
     - https://aatish-todo.netlify.app
-    - https://github-cart.netlify.app
-    - https://atish-image-uploader.netlify.app
-    - https://infinity-scroll-aatish.netlify.app
+    - https://aatish-github-cart.netlify.app
+    - https://aatish-image-uploader.netlify.app
+    - https://aatish-infinity-scroll.netlify.app
 
 -  Ask me about **React and DSA**
 
