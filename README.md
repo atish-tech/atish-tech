@@ -64,8 +64,25 @@
                                                                                                                                                   
 <a href="https://www.javascript.com/"> 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiKztGHvMvOqlh91-rltzuzIbZd07cPz-RpA&usqp=CAU" alt="react" width="20%" height="20%"/> </a>
-</p>
 
+<a href="https://www.mongodb.com/"> 
+<img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" alt="mongodb" width="20%" height="20%"/> </a>
+
+<a href="https://www.nodejs.com/"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" alt="nodejs" width="20%" height="20%"/> </a>
+
+<a href="https://www.nextjs.com/"> 
+<img src="https://cdn.sanity.io/images/3do82whm/next/4b1f008289a88f4438a1c983fb32cf1a636d9d0e-1000x667.png?w=720&h=480&fit=clip&auto=format" alt="nextjs" width="20%" height="20%"/> </a>
+
+<a href="https://www.firebase.com/"> 
+<img src="https://miro.medium.com/v2/resize:fit:300/1*R4c8lHBHuH5qyqOtZb3h-w.png" alt="firebase" width="20%" height="20%"/> </a>
+
+<a href="https://www.express.com/"> 
+<img src="https://expressjs.com/images/express-facebook-share.png" alt="expressjs" width="20%" height="20%"/> </a>
+
+
+</p>
+----------------------------------------------------------------------
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atish-tech&show_icons=true&locale=en&layout=compact" alt="atish-tech" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atish-tech&show_icons=true&locale=en" alt="atish-tech" /></p>
