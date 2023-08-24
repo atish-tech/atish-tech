@@ -6,8 +6,8 @@
 -  I’m currently working on [Web App](https://atish.tech) and learning **DSA**
 
 -  All of my projects are available at:
-  * https://atish.tech
-  * https://atish.tech
+    - https://atish.tech
+    - https://atish.tech
 
 -  Ask me about **React and DSA**
 
