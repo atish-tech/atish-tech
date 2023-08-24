@@ -7,7 +7,10 @@
 
 -  All of my projects are available at:
     - https://atish.tech
-    - https://atish.tech
+    - https://aatish-todo.netlify.app
+    - https://github-cart.netlify.app
+    - https://atish-image-uploader.netlify.app
+    - https://infinity-scroll-aatish.netlify.app
 
 -  Ask me about **React and DSA**
 
