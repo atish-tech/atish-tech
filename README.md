@@ -7,11 +7,9 @@
 
 -  All of my projects are available at:
     - https://atishthakur.me
-    - https://atish.tech
+    - https://aatish-paytm.netlify.app/login
+    - https://atish-tech.netlify.app
     - https://codecrew-mentalhealth.netlify.app
-    - https://aatish-github-cart.netlify.app
-    - https://aatish-image-uploader.netlify.app
-    - https://aatish-infinity-scroll.netlify.app
 
 -  Ask me about **Web Dev and DSA**
 
