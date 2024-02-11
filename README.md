@@ -26,9 +26,7 @@
 <img align="center" src="https://img.freepik.com/free-icon/twitter_318-674515.jpg?w=2000" alt="Twitter" height="50" width="50"/>
  </a>
   
-<a href="https://www.instagram.com/raj_aatish_/" target="blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/2175/2175198.png" alt="instagram" height="50" width="50" />
-</a>
+
 </p>
 <br>
  
