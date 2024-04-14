@@ -65,6 +65,15 @@
 <a href="https://www.mongodb.com/"> 
 <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" alt="mongodb" width="20%" height="20%"/> </a>
 
+<a href="https://postgress.com/"> 
+<img src="https://www.postgresqltutorial.com/wp-content/uploads/2012/08/What-is-PostgreSQL.png" alt="mongodb" width="20%" height="20%"/> </a>
+
+<a href="https://prisma.com/"> 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKW3K9lVbiDuJNneYEqt0QNSSM_lE4UUOdrQ&s" alt="mongodb" width="20%" height="20%"/> </a>
+
+<a href="https://aws.in/"> 
+<img src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png" alt="mongodb" width="20%" height="20%"/> </a>
+
 <a href="https://www.nodejs.com/"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" alt="nodejs" width="20%" height="20%"/> </a>
 
