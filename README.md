@@ -1,4 +1,4 @@
-<h1 align="center">Hi 😊, I'm Sourabh Giri</h1> 
+<h1 align="center">Hi 😊, I'm Atish Thakur</h1> 
 <h3 align="center">A Passionate Programmer</h3> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atish-tech&label=Profile%20views&color=0e75b6&style=flat" alt="atish-tech" /> </p>
