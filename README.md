@@ -5,13 +5,6 @@
 
 -  I’m currently working on full stack web app and learning **DSA**
 
--  All of my projects are available at:
-    -  https://connection-web-socket-f9e6118e9db9.herokuapp.com/servers/7990ff2b-5066-49f3-9a0d-5fc2c3c7ca0b/1?channelName=general
-    - https://atishthakur.me
-    - https://aatish-paytm.netlify.app/login 
-    - https://atish-tech.netlify.app
-    - https://codecrew-mentalhealth.netlify.app
-
 -  Ask me about **Web Dev and DSA**
 
 -  How to reach me **katish332@gmail.com**
