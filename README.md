@@ -36,49 +36,7 @@
 </a>
 </p>
 
-<h3 align="left">Tech Stack: </h3>
-<p align="left"> 
-<a href="https://www.w3schools.com/cpp/">
-<img src="https://isocpp.org/assets/images/cpp_logo.png" alt="cplusplus" width="18%" height="18%"/> </a>
-                                                                                                                                                  
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="19%" height="19%"/> </a>
-                                                                                                      
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="react" width="20%" height="20%"/> </a>
-                                                                                                                                                  
-<a href="https://en.wikipedia.org/wiki/HTML" target="_blank" rel="noreferrer"> 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeKXebshKzrBj9tc6DFj-iv46H_ePITihX6082ymkqOv1eucdQAr9nzW6LYFB6c1msXIc&usqp=CAU" alt="react" width="20%" height="20%"/> </a>
-                                                                                                                                                  
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="react" width="14%" height="14%"/> </a>
-                                                                                                                                                  
-<a href="https://www.javascript.com/"> 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiKztGHvMvOqlh91-rltzuzIbZd07cPz-RpA&usqp=CAU" alt="react" width="20%" height="20%"/> </a>
 
-<a href="https://www.mongodb.com/"> 
-<img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" alt="mongodb" width="20%" height="20%"/> </a>
-
-<a href="https://postgress.com/"> 
-<img src="https://www.postgresqltutorial.com/wp-content/uploads/2012/08/What-is-PostgreSQL.png" alt="mongodb" width="20%" height="20%"/> </a>
-
-<a href="https://prisma.com/"> 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKW3K9lVbiDuJNneYEqt0QNSSM_lE4UUOdrQ&s" alt="mongodb" width="20%" height="20%"/> </a>
-
-<a href="https://aws.in/"> 
-<img src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png" alt="mongodb" width="20%" height="20%"/> </a>
-
-<a href="https://www.nodejs.com/"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" alt="nodejs" width="20%" height="20%"/> </a>
-
-<a href="https://www.nextjs.com/"> 
-<img src="https://cdn.sanity.io/images/3do82whm/next/4b1f008289a88f4438a1c983fb32cf1a636d9d0e-1000x667.png?w=720&h=480&fit=clip&auto=format" alt="nextjs" width="20%" height="20%"/> </a>
-
-<a href="https://www.firebase.com/"> 
-<img src="https://miro.medium.com/v2/resize:fit:300/1*R4c8lHBHuH5qyqOtZb3h-w.png" alt="firebase" width="20%" height="20%"/> </a>
-
-<a href="https://www.express.com/"> 
-<img src="https://expressjs.com/images/express-facebook-share.png" alt="expressjs" width="20%" height="20%"/> </a>
 
 
 </p>
