@@ -39,9 +39,7 @@
 
 
 
-</p>
-----------------------------------------------------------------------
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atish-tech&show_icons=true&locale=en&layout=compact" alt="atish-tech" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atish-tech&show_icons=true&locale=en&layout=compact" alt="atish-tech" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atish-tech&show_icons=true&locale=en" alt="atish-tech" /></p>
 
