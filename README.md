@@ -6,7 +6,7 @@
 -  I’m currently working on full stack web app and learning **DSA**
  
 -  Ask me about **Web Dev and DSA**
-
+ 
 -  How to reach me **katish332@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
